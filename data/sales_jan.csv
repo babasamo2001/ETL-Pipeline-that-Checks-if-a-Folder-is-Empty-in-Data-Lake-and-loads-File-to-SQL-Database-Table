@@ -1,0 +1,4 @@
+SalesId,Date,CustName,CustAddr,Product,Category,Quantity,Price,Sales
+1,01/01/2023,adeleye babatunde,nigeria,trophy,white,20,2,40
+2,02/01/2023,bill gate,usa,star,black,8,7,56
+3,03/01/2023,warren buffet,usa,budwiser,white,4,10,40
